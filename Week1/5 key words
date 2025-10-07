@@ -1,0 +1,52 @@
+# Research Summary: Machine Learning & AI in Telecommunication Networks (2023–2025)
+
+This document summarizes four recent high-impact research papers (Impact Factor ≥ 2) that explore the intersection of Telecommunication Networks, Machine Learning, and Artificial Intelligence.
+
+---
+
+## 📘 Selected Papers
+
+1. Scheduling and Aggregation Design for Asynchronous Federated Learning Over Wireless Networks  
+   *Chung-Hsuan Hu, Zheng Chen, Erik G. Larsson*  
+   _IEEE Journal on Selected Areas in Communications (JSAC)_, 2023  
+   Impact Factor: ≈ 17.2  
+   Focus: Federated learning scheduling and aggregation in wireless communication systems.
+
+2. Combining Federated Learning and Edge Computing Toward Ubiquitous Intelligence in 6G Networks  
+   *Qiang Duan, Jun Huang, Shijing Hu, Ruijun Deng, Zhihui Lu, Shui Yu*  
+   _IEEE Communications Surveys & Tutorials_, 2023  
+   Impact Factor: ≈ 46.7  
+   Focus: Integration of federated learning and edge computing for 6G architectures.
+
+3. Advances in Machine Learning-Driven Cognitive Radio for Wireless Networks: A Survey  
+   *Nada Abdel Khalek, Deemah H. Tashman, Walaa Hamouda*  
+   _IEEE Communications Surveys & Tutorials_, 2023  
+   Impact Factor: ≈ 46.7  
+   Focus: Machine learning techniques for dynamic spectrum access and cognitive radio optimization.
+
+4. Federated Learning Over-the-Air by Retransmissions  
+   *H. Hellström et al.*  
+   _IEEE Transactions on Wireless Communications_, 2023  
+   Impact Factor: ≈ 10.7  
+   Focus: Over-the-air model aggregation and retransmission mechanisms in federated learning systems.
+
+---
+
+## 🔑 Keywords
+
+- Federated Learning  
+- Edge Computing  
+- Wireless Communications  
+- Resource Allocation  
+- Artificial Intelligence (AI)  
+
+---
+
+## 📚 Notes
+
+All four papers were published in 2023 or later, focusing on emerging AI-driven methods in communication network design, optimization, and resource management.
+
+---
+
+*Author: [Behnam Khandan]*  
+*Last Updated: October 2025*
