@@ -75,3 +75,23 @@ The goal is to provide a clear, hands-on framework for students to explore feder
 **Title:** *Design of a Simple Federated Learning System for Energy Optimization in Edge Devices over Wireless Networks*  
 This project will simulate a lightweight FL system focusing on energy efficiency and communication scheduling in edge environments. It is ideal for undergraduate students and can be implemented using Python-based simulation tools.
 
+---
+## 🔑 Keywords
+
+- Federated Learning  
+- Edge Computing  
+- Wireless Communications  
+- Resource Allocation  
+- Artificial Intelligence (AI)  
+
+---
+
+## 📚 Notes
+
+All four papers were published in 2023 or later, focusing on emerging AI-driven methods in communication network design, optimization, and resource management.
+
+---
+
+*Author: [Behnam Khandan]*  
+*Last Updated: October 2025*
+
