@@ -1,4 +1,4 @@
-# 📚 Summary of Six Key Research Articles with Links and Citations
+# 📚 Summary of Six Key Research Articles with Verified Links and Citations
 
 This document presents structured summaries of six research papers related to federated learning, wireless networks, and biomedical signal processing. Each summary includes the article’s focus, problem addressed, methodology, key contributions, and direct access links to the article and dataset.
 
@@ -18,7 +18,8 @@ This paper addresses asynchronous device participation in federated learning ove
 - Reduced training delays caused by slow devices  
 - Improved model convergence in wireless FL systems
 
-**Article Link:** [arXiv PDF](https://arxiv.org/abs/2212.07356)  
+**Article Link:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10041216)  
+**PDF (Open Access):** [arXiv PDF](https://arxiv.org/pdf/2212.07356.pdf)  
 **Dataset:** Simulated wireless network scenarios (no public dataset)
 
 **Citation:**  
@@ -41,6 +42,7 @@ This survey explores the integration of federated learning and edge computing to
 - Vision for ubiquitous intelligence in future networks
 
 **Article Link:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10258360)  
+**PDF (Open Access):** [ResearchGate PDF](https://www.researchgate.net/publication/374100488)  
 **Dataset:** No dataset (conceptual survey)
 
 **Citation:**  
@@ -62,11 +64,12 @@ This paper surveys machine learning techniques applied to cognitive radio system
 - Classification of learning models  
 - Application scenarios in IoT, UAVs, and emergency networks
 
-**Article Link:** [IEEE DOI](https://doi.org/10.1109/comst.2023.3345796)  
+**Article Link:** [IEEE DOI](https://doi.org/10.1109/COMST.2023.3345796)  
+**PDF (Open Access):** [PolyPublie PDF](https://publications.polymtl.ca/57188/1/COMST_2023_Cognitive_Radio.pdf)  
 **Dataset:** No dataset (survey-based)
 
 **Citation:**  
-Khalek, N. A., Tashman, D. H., & Hamouda, W. (2023). Advances in machine learning-driven cognitive radio for wireless networks: A survey. *IEEE Communications Surveys & Tutorials*. https://doi.org/10.1109/comst.2023.3345796
+Khalek, N. A., Tashman, D. H., & Hamouda, W. (2023). Advances in machine learning-driven cognitive radio for wireless networks: A survey. *IEEE Communications Surveys & Tutorials*. https://doi.org/10.1109/COMST.2023.3345796
 
 ---
 
@@ -84,7 +87,8 @@ This paper introduces an over-the-air computation (AirComp) method for federated
 - Retransmission mechanism for robustness  
 - Energy-efficient communication in FL systems
 
-**Article Link:** [arXiv PDF](https://arxiv.org/abs/2111.10267)  
+**Article Link:** [IEEE Xplore](https://ieeexplore.ieee.org/document/9593119)  
+**PDF (Open Access):** [arXiv PDF](https://arxiv.org/pdf/2111.10267.pdf)  
 **Dataset:** Simulated wireless FL scenarios (no public dataset)
 
 **Citation:**  
@@ -135,6 +139,7 @@ This paper presents a hybrid CNN-LSTM model for emotion recognition using EEG si
 Hasan, M. M., Islam, M. R., et al. (2023). EEG-based emotion recognition using hybrid deep learning architecture. *Biomedical Signal Processing and Control*. https://www.sciencedirect.com/science/article/pii/S1746809423000166
 
 ---
+
 ## 🔑 Shared Keywords Across All Six Articles
 
 These five keywords represent the common research themes found in all six selected papers:
@@ -144,4 +149,3 @@ These five keywords represent the common research themes found in all six select
 - **Energy Efficiency** – A recurring goal, especially in wireless FL and lightweight medical models.  
 - **Deep Learning** – Used in both wireless and biomedical contexts for model training and signal classification.  
 - **Privacy-Preserving AI** – Federated learning and medical signal processing both emphasize protecting user data and sensitive health information.
-
